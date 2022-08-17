@@ -1,0 +1,15 @@
+public class Main {
+  public static void main(String[] args) 
+{
+    int num = 5;              
+    float FloatNum = 5.99f;  
+    char Alphabet = 'D';        
+    boolean Bool = true;     
+    String Text = "Hi";       
+    System.out.println(num);
+    System.out.println(FloatNum);
+    System.out.println(Alphabet);
+    System.out.println(Bool);
+    System.out.println(Text);
+  }
+}
